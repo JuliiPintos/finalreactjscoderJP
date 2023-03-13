@@ -1,4 +1,4 @@
-# Entrega Final React JS Andrés Amorín
+# Entrega Final React JS JULIAN PINTOS
 
   
 
